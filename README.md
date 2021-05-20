@@ -24,6 +24,7 @@ This Is A Audio Player Website Whis Is made Up Of Javascript HTML and CSS.It Has
 
 - HTML
 - CSS
+- JavaScript
 
 [Back To The Top](#read-me-template)
 
